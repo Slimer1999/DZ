@@ -1,0 +1,15 @@
+C:\Users\fnati\OneDrive\Desktop\HomeWork\HomeWork5\work2\obj\Debug\net6.0\work2.csproj.AssemblyReference.cache
+C:\Users\fnati\OneDrive\Desktop\HomeWork\HomeWork5\work2\obj\Debug\net6.0\work2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fnati\OneDrive\Desktop\HomeWork\HomeWork5\work2\obj\Debug\net6.0\work2.AssemblyInfoInputs.cache
+C:\Users\fnati\OneDrive\Desktop\HomeWork\HomeWork5\work2\obj\Debug\net6.0\work2.AssemblyInfo.cs
+C:\Users\fnati\OneDrive\Desktop\HomeWork\HomeWork5\work2\obj\Debug\net6.0\work2.csproj.CoreCompileInputs.cache
+C:\Users\fnati\OneDrive\Desktop\HomeWork\HomeWork5\work2\bin\Debug\net6.0\work2.exe
+C:\Users\fnati\OneDrive\Desktop\HomeWork\HomeWork5\work2\bin\Debug\net6.0\work2.deps.json
+C:\Users\fnati\OneDrive\Desktop\HomeWork\HomeWork5\work2\bin\Debug\net6.0\work2.runtimeconfig.json
+C:\Users\fnati\OneDrive\Desktop\HomeWork\HomeWork5\work2\bin\Debug\net6.0\work2.dll
+C:\Users\fnati\OneDrive\Desktop\HomeWork\HomeWork5\work2\bin\Debug\net6.0\work2.pdb
+C:\Users\fnati\OneDrive\Desktop\HomeWork\HomeWork5\work2\obj\Debug\net6.0\work2.dll
+C:\Users\fnati\OneDrive\Desktop\HomeWork\HomeWork5\work2\obj\Debug\net6.0\refint\work2.dll
+C:\Users\fnati\OneDrive\Desktop\HomeWork\HomeWork5\work2\obj\Debug\net6.0\work2.pdb
+C:\Users\fnati\OneDrive\Desktop\HomeWork\HomeWork5\work2\obj\Debug\net6.0\work2.genruntimeconfig.cache
+C:\Users\fnati\OneDrive\Desktop\HomeWork\HomeWork5\work2\obj\Debug\net6.0\ref\work2.dll

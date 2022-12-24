@@ -1,0 +1,15 @@
+C:\Users\fnati\OneDrive\Desktop\HomeWork\HomeWork7\work5\bin\Debug\net6.0\work5.exe
+C:\Users\fnati\OneDrive\Desktop\HomeWork\HomeWork7\work5\bin\Debug\net6.0\work5.deps.json
+C:\Users\fnati\OneDrive\Desktop\HomeWork\HomeWork7\work5\bin\Debug\net6.0\work5.runtimeconfig.json
+C:\Users\fnati\OneDrive\Desktop\HomeWork\HomeWork7\work5\bin\Debug\net6.0\work5.dll
+C:\Users\fnati\OneDrive\Desktop\HomeWork\HomeWork7\work5\bin\Debug\net6.0\work5.pdb
+C:\Users\fnati\OneDrive\Desktop\HomeWork\HomeWork7\work5\obj\Debug\net6.0\work5.csproj.AssemblyReference.cache
+C:\Users\fnati\OneDrive\Desktop\HomeWork\HomeWork7\work5\obj\Debug\net6.0\work5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fnati\OneDrive\Desktop\HomeWork\HomeWork7\work5\obj\Debug\net6.0\work5.AssemblyInfoInputs.cache
+C:\Users\fnati\OneDrive\Desktop\HomeWork\HomeWork7\work5\obj\Debug\net6.0\work5.AssemblyInfo.cs
+C:\Users\fnati\OneDrive\Desktop\HomeWork\HomeWork7\work5\obj\Debug\net6.0\work5.csproj.CoreCompileInputs.cache
+C:\Users\fnati\OneDrive\Desktop\HomeWork\HomeWork7\work5\obj\Debug\net6.0\work5.dll
+C:\Users\fnati\OneDrive\Desktop\HomeWork\HomeWork7\work5\obj\Debug\net6.0\refint\work5.dll
+C:\Users\fnati\OneDrive\Desktop\HomeWork\HomeWork7\work5\obj\Debug\net6.0\work5.pdb
+C:\Users\fnati\OneDrive\Desktop\HomeWork\HomeWork7\work5\obj\Debug\net6.0\work5.genruntimeconfig.cache
+C:\Users\fnati\OneDrive\Desktop\HomeWork\HomeWork7\work5\obj\Debug\net6.0\ref\work5.dll
